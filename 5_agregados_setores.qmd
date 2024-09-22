@@ -162,7 +162,7 @@ ggplot() +
 
 ```
 
-### Examplo 2: Distribuição espacial da população em 2022
+### Exemplo 2: Distribuição espacial da população em 2022
 
 Neste segundo exemplo, nós vamos utilizar os resultados `"Preliminares"` dos agregados dos setores censitários do censo de 2022, que foram divulgados pelo IBGE em março de 2024. Em particular, vamos utilizar a variável `V0001` que informa a população total dos setores. Além disso, como houve uma mudança na malha espacial de setores censitários entre 2010 e 2022, nós precisamos baixar a malha do ano correspondente.
 
